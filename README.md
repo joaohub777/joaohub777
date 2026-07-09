@@ -1,18 +1,35 @@
-## Oi me chamo João, tenho 16 anos sou do 2° ano de informatica.
-Disposto a aprender
+## <h1 align="center">👋 Olá, eu sou João Victor!</h1>
 
-<img src="URL_DO_GIF">
-<!--
-**joaohub777/joaohub777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="LINK_DO_GIF_DO_NEYMAR" width="500">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">⚽ Fã do Neymar Jr. e apaixonado por tecnologia.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+- 💻 Estudando programação.
+- 🐍 Aprendendo Python.
+- 🌎 Brasil.
+- ⚽ Neymar é o meu jogador favorito.
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+
+---
+
+## 🌟 Frase
+
+> "O sucesso acontece quando a preparação encontra a oportunidade."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="Visualizações">
+</p>
