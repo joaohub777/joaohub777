@@ -1,12 +1,7 @@
 ## Oi me chamo João, tenho 16 anos sou do 2° ano de informatica.
 Disposto a aprender
 
-<img src="URL_DO_GIF"
-
-<div align="center">
-  <img src="URL_DO_SEU_GIF.gif" width="400px" />
-</div>
-
+<img src="URL_DO_GIF">
 <!--
 **joaohub777/joaohub777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
