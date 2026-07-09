@@ -4,7 +4,7 @@
   <img src="LINK_DO_GIF_DO_NEYMAR" width="500">
 </p>
 
-<h3 align="center">⚽ Fã do Neymar Jr. e apaixonado por tecnologia.</h3>
+<h3 align="center">⚽Fã do Neymar Jr. e apaixonado por tecnologia.</h3>
 
 ---
 
