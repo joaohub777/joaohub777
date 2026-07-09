@@ -17,4 +17,4 @@
 > "O sucesso acontece quando a preparação encontra a oportunidade."
 
 
-<img src="[https://media1.tenor.com/m/gXj68SCkYgQAAAAC/neymar-edit.gif](https://i.gifer.com/McpM.gif)"/>
+<img src="https://i.gifer.com/McpM.gif)"/>
