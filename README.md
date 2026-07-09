@@ -1,4 +1,5 @@
 ## Oi me chamo João, tenho 16 anos sou do 2° ano de informatica.
+Disposto a aprender
 
 
 <!--
