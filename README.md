@@ -1,8 +1,12 @@
-## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&color=FFFFFF&background=EEEEEE00&center=true&random=true&width=450&height=60&lines=%E2%98%A3%F0%9D%93%A2%F0%9D%93%AE%F0%9D%93%B3%F0%9D%93%AA+%F0%9D%93%91%F0%9D%93%AE%F0%9D%93%B6+%F0%9D%93%A5%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AD%F0%9D%93%B8%E2%98%A3)](https://git.io/typing-svg)</h1>
+## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9336F7&center=true&random=true&width=435&lines=%F0%9D%95%8A%F0%9D%95%96%F0%9D%95%9B%F0%9D%95%92+%F0%9D%94%B9%F0%9D%95%96%F0%9D%95%9E+%F0%9D%95%8D%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%95%F0%9D%95%A0)](https://git.io/typing-svg)</h1>
+
 
 
 <h3 align="center">Fã do Neymar Jr. e amante da tecnologia.</h3>
 <p align="center"><img src=https://media1.tenor.com/m/gXj68SCkYgQAAAAC/neymar-edit.gif/></p>
+<div>
+  <a href="instagram.com/jvictor__sc?igsh=NjBnZGwzYWFsbHpq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 ## 😴 Sobre mim
 - 💻 Estudando programação.
@@ -11,6 +15,4 @@
   
 
 > "O sucesso acontece quando a preparação encontra a oportunidade."
-
-
 
